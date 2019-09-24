@@ -1,6 +1,8 @@
 class Puppy 
   
-  
+  def initialize 
+    
+  end 
   
   
   
